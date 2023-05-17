@@ -1,4 +1,4 @@
-namespace TravelTeamAPI
+namespace BlazorApp1.Data
 {
     public class WeatherForecast
     {
